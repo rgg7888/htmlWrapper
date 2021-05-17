@@ -19,6 +19,7 @@
             "App\\ha\\": "src/html-armor/",
             "App\\piezas\\": "src/piezas/",
             "App\\wrapper\\": "src/wrapper/"
-        }
+        },
+        "files": ["src/helpers.php"]
     }
 }
