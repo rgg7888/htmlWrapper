@@ -3,7 +3,7 @@
 use PHPUnit\Framework\TestCase;
 use App\ha\HtmlArmor;
 
-class HtmlArmortest extends TestCase {
+class HtmlArmorTest extends TestCase {
 
     //code here ...
     public function test_instancia_and_methods_of_HtmlArmor () {
